@@ -1,0 +1,21 @@
+{
+  "name": "dsa-arrays-linked-lists",
+  "version": "1.0.0",
+  "description": "Linked List Exercise",
+  "main": "linked-list.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+"linked-list",
+    "data-structures",
+    "algorithms",
+    "jest",
+    "testing"
+  ],
+  "author": "Tyler Rotolo-Gray",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
